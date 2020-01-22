@@ -1,6 +1,7 @@
 body
 {
-    background-image: url('../images/matrix.jpeg');
+    /* Fixando imagem no centro do celulara */
+    background: url('../images/matrix.jpeg') no-repeat center center fixed;
     /* Faz a imagem ficar do tamanho da tela */
     background-size: cover;
     color: #FFF;
