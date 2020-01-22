@@ -1,11 +1,16 @@
+html
+{
+    height: 100%;
+}
+
 body
 {
     /* Fixando imagem no centro do celulara */
-    background: url('../images/matrix.jpeg') no-repeat center center fixed;
+    background: url('../images/matrix.jpeg');
     /* Faz a imagem ficar do tamanho da tela */
     background-size: cover;
     color: #FFF;
-    
+    height: 100%;
 
     -webkit-background-size: cover;
     -moz-backgound-size: cover;
